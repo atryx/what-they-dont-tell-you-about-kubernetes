@@ -1,4 +1,4 @@
-<!-- GitAds-Verify: REPLACE_WITH_GITADS_CODE -->
+<!-- GitAds-Verify: ZV9AK1OO9X2S7BXOFTG6MR2IPRCCVG71 -->
 
 # What They Don't Tell You About Kubernetes
 
